@@ -5,6 +5,7 @@ This Repo contains firmware dumps (SPI Flash/EEPROM) for Sunplus SPHE82xx based 
 ## 🛠️KS-10 Junior 2
 - **SoC:** Sunplus SPHE8203R
 - **Flash Chip:** Eon EN25Q32B (4MB)
+- **RAM Chip:** 
 - **Dump Method:** CH341B (3.3V) via SOP8 Clip (In Circuit Serial Programming)
 ---
 
