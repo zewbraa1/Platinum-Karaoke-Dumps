@@ -7,6 +7,12 @@ This Repo contains firmware dumps (SPI Flash/EEPROM) for Sunplus SPHE82xx based 
 - **Flash Chip:** Eon EN25Q32B (4MB)
 - **RAM Chip:** ESMT M12L64164A-6T6 4Mb (8MB)
 - **Dump Method:** CH341B (3.3V) via SOP8 Clip (In Circuit Serial Programming)
+
+## X-10 Plus
+- **SoC:** Sunplus SPHE82xx?? (Unknown, Unconfirmed)
+- **Flash Chip:** Macronix MX29LV320EBI-70G (32Mb/4MB)
+- **SDRAM Chip:** Samsung K422816320-LC60 166MHz (128Mbit/16MB)
+- **Dump Method:** CH341B (3.3V) via SOP8 Clip (In Circuit Serial Programming)
 ---
 
 ## Disclaimer & Legal Notice
