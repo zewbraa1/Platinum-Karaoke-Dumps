@@ -27,3 +27,4 @@ It is not intended to facilitate the infringement of any copyrights or participa
 
 UPDATE 8:33PM GMT+8: I just dumped the EEPROM on my Platinum X-10+ most of the data weren't really useful, but i'll include the dump anyways.
 You could try this with an X-10+ or basically any T/X/BMB models i guess? but please make sure you have a dump of the old EEPROM IC before proceeding.
+You could also try a new EEPROM Chip without anything on it, basically empty. 
