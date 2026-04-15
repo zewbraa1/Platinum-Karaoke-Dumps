@@ -14,6 +14,6 @@ This repository is intended for **educational, archival, and repair purposes onl
 
 - **No Copyright Infringement Intended:** These dumps are provided to assist technicians in restoring bricked hardware.
 - **No Song Data:** This repository does NOT contain proprietary karaoke song databases, lyrics, or copyrighted music files.
-- **Right to Repair:** This project supports the maintenance of legacy hardware once official support has ended.
+- **Right to Repair:** This project supports the maintenance of user-owned hardware, specifically for devices that are out of warranty. It aims to provide owners with the tools needed to restore their own equipment from firmware-related failures.
 
 It is not intended to facilitate the infringement of any copyrights or participate in any illegal activities.
