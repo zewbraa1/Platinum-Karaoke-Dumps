@@ -17,3 +17,7 @@ This repository is intended for **educational, archival, and repair purposes onl
 - **Right to Repair:** This project supports the maintenance of user-owned hardware, specifically for devices that are out of warranty. It aims to provide owners with the tools needed to restore their own equipment from firmware-related failures.
 
 It is not intended to facilitate the infringement of any copyrights or participate in any illegal activities.
+
+
+UPDATE 8:33PM GMT+8: I just dumped the EEPROM on my Platinum X-10+ most of the data weren't really useful, but i'll include the dump anyways.
+You could try this with an X-10+ or basically any T/X/BMB models i guess? but please make sure you have a dump of the old EEPROM IC before proceeding.
