@@ -2,7 +2,7 @@
 This Repo contains firmware dumps (SPI Flash/EEPROM) for Sunplus SPHE82xx based Platinum Karaoke systems (KS-10 Junior 2) for repair and archival purposes and not intended to facilitate the infringement of any copyrights or participate in any illegal activities.
 
 
-## 🛠️KS-10 Junior 2
+## KS-10 Junior 2
 - **SoC:** Sunplus SPHE8203R
 - **Flash Chip:** Eon EN25Q32B (4MB)
 - **RAM Chip:** ESMT M12L64164A-6T6 4Mb (8MB)
